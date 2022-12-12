@@ -15,4 +15,3 @@ type Message @model {
   author: String!
   message: String!
 }
-
